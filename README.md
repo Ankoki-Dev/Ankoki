@@ -1,4 +1,4 @@
-## Hi i'm Ankoki c:  
+## Hi, i'm Ankoki c:  
 I enjoy learning java in my free time, which i have way too much of :p  
 These are my GitHub stats, I don't know what else to say okay bye<3  
   
