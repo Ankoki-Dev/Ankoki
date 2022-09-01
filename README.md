@@ -1,5 +1,5 @@
 ## Hi, i'm Ankoki c:  
-I enjoy learning java in my free time, which i have way too much of :p  
-These are my GitHub stats, I don't know what else to say okay bye<3  
+I'm currently a Sales and Marketing Assistant in Glasgow, and I enjoy creating projects (mainly in Java).  
+Since I was young i've always wanted to be a software developer of some kind so learning slowly but surely:)
   
 ![Ankoki's github stats](https://github-readme-stats.vercel.app/api?username=Ankoki&show_icons=true&theme=cobalt) 
