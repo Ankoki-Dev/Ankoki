@@ -1,4 +1,4 @@
-## Hi, i'm Ankoki c:  
+## Hi, i'm Jay!  
 I'm currently a Sales and Marketing Assistant in Glasgow, and I enjoy creating projects (mainly in Java).  
 Since I was young i've always wanted to be a software developer of some kind so learning slowly but surely:)
   
