@@ -1,4 +1,4 @@
-## Hi, i'm Ella!  
+## Hi, i'm Jay!  
 I'm currently attending University in Brighton, and I enjoy creating projects (mainly in Java).  
 Since I was young i've always wanted to be a software developer of some kind so i'm just doing things atp.
   
